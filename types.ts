@@ -1,4 +1,6 @@
+
 export type Type = 'receita' | 'despesa';
+
 export type Status = 'pago' | 'previsto';
 
 export type Transaction = {
